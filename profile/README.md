@@ -15,7 +15,7 @@ Rayvn aims to bridge communication gaps during disasters by fusing computer visi
 
 ## 🧩 System Architecture
 
-<img width="1167" height="652" alt="Screenshot from 2025-11-03 21-08-33" src="https://github.com/user-attachments/assets/73485efa-cdd1-48f6-b565-610b975162ee" />
+<img width=auto height="500" alt="Screenshot from 2025-11-03 21-08-33" src="https://github.com/user-attachments/assets/f0cce071-2152-4ab7-95af-37f16c8d9377" />
 
 ## 🌍 Market Scope
 Rayvn addresses a $6B Serviceable Addressable Market (SAM) in global disaster robotics, with an early adoption SOM of $100M across India and Southeast Asia.
@@ -40,4 +40,4 @@ Revenue streams will scale alongside pilot deployments, government partnerships,
 
 ## 🤝 Links
 🔗 [LinkedIn](https://www.linkedin.com/in/rayvn-tech-424796390/) <br>
-💻 [GitHub](rh3nium.github.io/rayvn-site)
+💻 [GitHub Pages Site](rh3nium.github.io/rayvn-site)
