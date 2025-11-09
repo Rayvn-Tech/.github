@@ -1,4 +1,4 @@
-### Rayvn is an IoT-driven autonomous rescue robotics system designed for disaster and crisis response. It combines aerial drones and ground crawler bots connected via a LoRa-based mesh network, enabling offline, real-time victim detection, mapping, and communication in GPS-denied environments.
+### Rayvn is an IoT-driven autonomous rescue robotics system designed for disaster and crisis response. It combines aerial drones and ground crawler bots connected via a LoRa-based mesh network, enabling offline, real-time victim detection, mapping, and 2-way communication in GPS-denied environments.
 
 ## 💫 Mission
 Rayvn aims to bridge communication gaps during disasters by fusing computer vision, thermal sensing, and AI-driven coordination into a unified rescue network.
